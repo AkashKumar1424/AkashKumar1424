@@ -61,7 +61,7 @@ Outside analytics, I work as a **Barista at Starbucks**, where I sharpen my team
 ## 📫 Let’s Connect
 
 💼 (https://www.linkedin.com/in/akash-kumar-28b747277/)
-📧 **akashkaushal@email.com**  
+📧 **akash.24kumar02@email.com**  
 🌟 Always open to collaboration, learning, and meaningful conversations about data, tech, and innovation.  
 
 ---
