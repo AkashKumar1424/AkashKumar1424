@@ -1,11 +1,11 @@
-# 👋 Hey there! I'm Akash Kaushal  
+#  Hey there! I'm Akash Kumar  
 
 🎓 **Master’s in Data Analytics** | University of Niagara Falls, Canada  
 💻 **Bachelor’s in Computer Applications (BCA)** | Panjab University, India  
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm passionate about turning **data into decisions** — using analytics, visualization, and automation to uncover insights that drive smarter outcomes.  
 
@@ -15,7 +15,7 @@ Outside analytics, I work as a **Barista at Starbucks**, where I sharpen my team
 
 ---
 
-## 💼 Experience Snapshot
+##  Experience Snapshot
 
 - **Data Analyst | eClerx Pvt. Ltd.**  
   Supported financial data operations and process automation using Excel & Python.  
@@ -28,7 +28,7 @@ Outside analytics, I work as a **Barista at Starbucks**, where I sharpen my team
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
 **Languages:** Python, SQL, R  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels  
@@ -38,7 +38,7 @@ Outside analytics, I work as a **Barista at Starbucks**, where I sharpen my team
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 🔹 [Netflix Stock Analysis](#) – Forecasting volatility using Ridge Regression & ARIMA  
 🔹 [Global EV Adoption Study](#) – PESTEL analysis with data-driven insights  
@@ -49,7 +49,7 @@ Outside analytics, I work as a **Barista at Starbucks**, where I sharpen my team
 
 ---
 
-## 🌍 Beyond Data
+##  Beyond Data
 
 - ☕ Skilled Barista & Customer Service Professional  
 - 📸 Creative mind — love blending analytics with storytelling  
